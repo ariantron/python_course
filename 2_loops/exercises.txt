@@ -1,0 +1,75 @@
+1. Write a python program to print the square of all numbers from 0 to 10
+
+2. Write a python program to find the sum of all even numbers from 0 to 10
+
+3. Write a python program to read three numbers (a,b,c) and check how many numbers between ‘a’ and ‘b’ are divisible by ‘c’
+
+4. Write a python program to get the following output
+
+1-----99
+
+2-----98
+
+3-----97
+
+. .
+
+. .
+
+. .
+
+98-----2
+
+99-----1
+
+5. Write a python program to read a number and print the binary of that number (hint: if ‘a’ is a string , a[::-1] will be reverse of that string)
+
+6. Write a python program to read four numbers (representing the four octets of an IP) and print the next five IP address
+
+Eg:
+
+Input:
+
+192 168 255 252
+
+----------Output---------
+
+192 168 255 253
+
+192 168 255 254
+
+192 168 255 255
+
+192 169 0 0
+
+192 169 0 1
+
+7. Write a python program to print the factorial of a given number
+
+8. Write a python program to print the first 10 numbers Fibonacci series
+
+9. Write a python program to read a number and print a right triangle using "*"
+
+Eg :
+
+Input : 5
+
+----------Output---------
+
+*
+
+* *
+
+* * *
+
+* * * *
+
+* * * * *
+
+10. Write a python program to check given number is prime or not
+
+11. Write a python program to print all prime numbers between 0 to 100 , and print how many prime numbers are there.
+
+12. a, b, c = 0, 0, 0 . Write a python program to print all permutations using those three variables
+
+Output : 000 , 001 ,002, 003, 004, 0005 ,006, 007, 008, 009, 010, 011 …… 999
